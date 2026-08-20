@@ -11,8 +11,6 @@
 ### Content Description page
 ![Uploading image.png…]()
 
-
-
 ### Ordered List page
 
 
